@@ -65,6 +65,17 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 theme: muji
 
+feed:
+  type:
+    - atom
+  path:
+    - atom.xml
+  limit: 20
+  content_limit: 140
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:

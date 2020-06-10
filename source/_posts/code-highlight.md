@@ -1,5 +1,7 @@
 ---
 title: Code Highlight Style test
+subtitle: Make sure all the code blocks highlighted correctly
+reference: Make sure all the code blocks highlighted correctly
 date: 2019-07-25 16:43:00
 tags:
 ---

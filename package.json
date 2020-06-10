@@ -5,6 +5,9 @@
   "hexo": {
     "version": "4.2.1"
   },
+  "scripts": {
+    "d": "bash deploy.sh"
+  },
   "dependencies": {
     "@babel/preset-env": "^7.10.2",
     "hexo": "^4.2.1",

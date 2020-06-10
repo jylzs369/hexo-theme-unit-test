@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: Muji
+title: Hexo Theme Lagom
+subtitle:
 description:
 author: Shio
 language: zh-CN
@@ -12,7 +12,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://jylzs369.github.io/muji
+url: https://jylzs369.github.io/lagom
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -44,7 +44,7 @@ highlight:
   tab_replace:
 
 # Category & Tag
-default_category: dev
+default_category: uncategorized
 category_map:
 tag_map:
 
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: muji
+theme: lagom
 
 feed:
   type:
